@@ -1,5 +1,8 @@
 # Artificial Intelligence Lab Programs
 
+<code><img height="30" src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39bcf7"></code>
+<code><img height="30" src="https://img.shields.io/badge/Prolog-111111?style=for-the-badge&logo=prolog&logoColor=39bcf7"></code>
+
 # Python - Lab
 
 ## Difference between List and Tuple
